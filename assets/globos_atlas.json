@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "globos.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 981,
+				"h": 981
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "circulo-amarillo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-azul.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 1,
+						"y": 328,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-celeste.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 1,
+						"y": 655,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-gris.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 328,
+						"y": 1,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-lila.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 655,
+						"y": 1,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-rojo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 328,
+						"y": 328,
+						"w": 325,
+						"h": 325
+					}
+				},
+				{
+					"filename": "circulo-verde.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 325
+					},
+					"frame": {
+						"x": 328,
+						"y": 655,
+						"w": 325,
+						"h": 325
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f9b9c596f8c483b9105b9ddf22ee90bd:a23d8f46bda459dc70909a3a6b93a04a:a24d79fef77cdd8c0024d045002066a8$"
+	}
+}
